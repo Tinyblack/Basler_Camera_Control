@@ -1,0 +1,6 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.1.0)
+# Device = Basler::UsbEventParams -- Interface to the PylonUsb Event Grabber parameters -- Device version = 0.0.1 -- Product GUID = DD67B426-124F-46C0-9139-B0DD13D0C346 -- Product version GUID = 5693d5e0-ee64-457a-a501-c6b1f14dd209
+NumBuffer	20
+NumMaxQueuedUrbs	5
+TransferLoopThreadPriority	15

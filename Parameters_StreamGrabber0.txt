@@ -1,0 +1,9 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.1.0)
+# Device = Basler::UsbStreamParams -- Interface to the PylonUsb Stream Grabber parameters -- Device version = 0.0.1 -- Product GUID = 1C7991FD-577C-4BE4-A31B-9FEAADECB679 -- Product version GUID = 1e2ba203-f4bf-4f66-be8f-2cd283c33636
+MaxNumBuffer	16
+MaxBufferSize	131072
+MaxTransferSize	1048576
+NumMaxQueuedUrbs	64
+TransferLoopThreadPriority	15
+TransferTimeout	4000

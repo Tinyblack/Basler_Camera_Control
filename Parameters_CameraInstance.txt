@@ -1,0 +1,11 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.1.0)
+# Device = Basler::InstantCameraParams -- Interface to instant camera parameters -- Device version = 0.0.1 -- Product GUID = de84890e-dd06-40c5-964b-f8979b0c9dd4 -- Product version GUID = 7d810a53-c787-46eb-a3ef-87720f01c5ee
+MaxNumBuffer	100
+MaxNumQueuedBuffer	50
+MaxNumGrabResults	4294967295
+ChunkNodeMapsEnable	1
+StaticChunkNodeMapPoolSize	0
+ClearBufferModeEnable	0
+AcquisitionStartStopExecutionEnable	1
+InternalGrabEngineThreadPriorityOverride	0

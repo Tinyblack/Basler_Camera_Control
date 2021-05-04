@@ -1,0 +1,4 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.1.0)
+# Device = Basler::UsbTLParams -- Interface to the USB transport layer specific parameters. -- Device version = 0.0.1 -- Product GUID = D4E6BA96-A690-47CB-BF1B-4F594D5752F3 -- Product version GUID = cc3dd9e2-ccde-4cf1-b52f-ffc6955b2ab1
+MigrationModeEnable	0
